@@ -7,10 +7,6 @@ A brief description of what this project does and who it's for
 - seconde item
 
 ```echo hello world```
-## Screenshots
-
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-
 
 ## Deployment
 
