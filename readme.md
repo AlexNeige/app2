@@ -46,6 +46,6 @@ To deploy this project run
 
 #Screenshot
 
-![Screenshot](./asset/data/desktop.png)
-![Screenshot](./asset/data/mobile.png)
+![Screenshot](./assets/data/desktop.png)
+![Screenshot](./assets/data/mobile.png)
 
